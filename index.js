@@ -36,3 +36,6 @@ class std extends stud{
     // console.log(std)
     std1.showdetails();
 
+    let std2 = new std("Ali", 345 , 20 , "first",555);
+    // console.log(std)
+    std2.showdetails();
